@@ -3,7 +3,7 @@
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mA1n38SKzr8?si=pP2XV7PyL20UYO-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Make sure to install the dependencies:
 
 ```bash
